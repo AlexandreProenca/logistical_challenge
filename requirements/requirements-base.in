@@ -1,0 +1,4 @@
+# Common dependecies
+
+typer==0.3.2
+geopy==2.0.0

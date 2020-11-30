@@ -1,0 +1,13 @@
+# Required dependecies to development
+-r requirements-base.in
+
+bandit==1.6.2
+flake8==3.8.4
+isort==4.3.21
+pre-commit==2.7.1
+prospector==1.3.0
+pytest==6.1.1
+pytest-cov==2.10.1
+safety==1.9.0
+tox==3.20.1
+bumpversion==0.6.0

@@ -1,0 +1,4 @@
+# Required dependecies to production
+-r requirements-base.in
+
+sentry-sdk==0.19.0
