@@ -1,4 +1,4 @@
-# Loadsmart Smart Cargo Assignment
+# Smart Cargo Assignment
 
 _Author: Alexandre Proença_ \
 _Date: 16/10/2020_ \
